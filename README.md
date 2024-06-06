@@ -7,13 +7,13 @@
 <h3 align="center">A Computer Science & Design undergraduate at <a href="https://github.com/IIIT-Delhi">IIIT Delhi</a>.</h3>
 
 <br/>
-
+ <!--
 <div align="center">
  
  🔭 I’m currently in **4th year**
- 
  </div>
- 
+  -->
+
 <div align="center"> 
   <a href="mailto:annu21312@iiitd.ac.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
