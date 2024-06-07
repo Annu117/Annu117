@@ -45,16 +45,10 @@
     <img width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=Annu117&theme=tokyonight&hide_border=false" alt="GitHub Streak">
     <br>
 </div>
-
- <!--   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu117&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages">
--->
 </div>
-
+ <!--   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu117&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages">
 <br/><br/>
-
 <hr/>
-
 <br/>
-
-
 <br/>
+-->
