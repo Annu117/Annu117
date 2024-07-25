@@ -19,14 +19,13 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <hr/>
-
+<!--
 <p align="center">
     I am passionate about developing new technologies and creating innovative solutions. Currently, I am focusing on web and mobile development, computer vision, and exploring the latest trends in the tech world. I enjoy collaborating on projects, contributing to open-source, and continuously learning to improve my skills.
 </p>
-
 <hr/>
+-->
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
