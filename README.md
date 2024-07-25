@@ -66,13 +66,13 @@
     <p>Awarded [Award Name] for [Reason/Achievement]</p>
 </div>
 <hr/>
--->
 
 <p align="center">
     ✨ "Strive not to be a success, but rather to be of value." - Albert Einstein ✨
 </p>
 
 <hr/>
+-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
