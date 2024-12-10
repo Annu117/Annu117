@@ -42,22 +42,24 @@
 
 <br/>
 <hr/>
- <!--
+<!--
 <h2 align="center">🌟 Key Projects 🌟</h2>
 <br/>
 <div align="center">
-    <a href="https://github.com/Annu117/ProjectName1" target="_blank">
-        <img src="https://img.shields.io/badge/ProjectName1-6A1B9A?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="https://clothing-customizer.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/TryOn-6A1B9A?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <p>Brief description of ProjectName1.</p>
-    <a href="https://github.com/Annu117/ProjectName2" target="_blank">
-        <img src="https://img.shields.io/badge/ProjectName2-1E88E5?style=for-the-badge&logo=github&logoColor=white" />
+    <p>Build a 3D Cloth Customizer with threeJS and react framework. Used typescript, tailwindCSS and MUI.</p>
+    <a href="https://food-scan.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/FoodScan-1E88E5?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <p>Brief description of ProjectName2.</p>
+    <p>Build InceptionV3 ML model for food image classification and deployed on gradio with hugging face backend API, then used this API along with EdamamAPI, TheMealDb for food detection, nutrient info and recipe suggestion.</p>
     Add more projects similarly
 </div>
 <hr/>
+        <img src="https://img.shields.io/badge/FoodScan-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
+ 
 <h2 align="center">🏅 Achievements & Certifications 🏅</h2>
 <br/>
 <div align="center">
