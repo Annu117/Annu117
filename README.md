@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Annu+Kumari!;" />
 </h1>
 
-<h3 align="center">A Computer Science & Design undergraduate at <a href="https://github.com/IIIT-Delhi">IIIT Delhi</a>.</h3>
+<h3 align="center">A Computer Science & Design undergraduate at <a href="https://github.com/IIIT-Delhi">IIIT Delhi</a></h3>
 
 <br/>
 
@@ -42,31 +42,40 @@
 
 <br/>
 <hr/>
-<!--
-<h2 align="center">🌟 Key Projects 🌟</h2>
-<br/>
-<div align="center">
-    <a href="https://clothing-customizer.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/TryOn-6A1B9A?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <p>Build a 3D Cloth Customizer with threeJS and react framework. Used typescript, tailwindCSS and MUI.</p>
-    <a href="https://food-scan.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/FoodScan-1E88E5?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <p>Build InceptionV3 ML model for food image classification and deployed on gradio with hugging face backend API, then used this API along with EdamamAPI, TheMealDb for food detection, nutrient info and recipe suggestion.</p>
-    Add more projects similarly
-</div>
-<hr/>
-        <img src="https://img.shields.io/badge/FoodScan-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
- 
-<h2 align="center">🏅 Achievements & Certifications 🏅</h2>
-<br/>
-<div align="center">
-    <p>Certified in [Certification Name] from [Issuing Organization]</p>
-    <p>Awarded [Award Name] for [Reason/Achievement]</p>
-</div>
+<h2 align="center">🌟 Projects 🌟</h2>
+<br />
+<table align="center" style="width: 80%; border-collapse: collapse; text-align: center;">
+    <tr>
+         <td style="padding: 20px; vertical-align: middle;">
+            <div align="center">
+                <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                    <a href="https://food-scan.vercel.app/" target="_blank" style="text-decoration: none;">
+                        <img src="https://img.shields.io/badge/FoodScan-1E88E5?style=for-the-badge&logo=globe&logoColor=white" />
+                    </a>
+                    <p style="margin: 10px 0; font-size: 16px; color: #444; line-height: 1.6; text-align: center;">
+                        Developed a website for dish classification, recipe retrieval and nutritional analysis using InceptionV3, React and integrated APIs
+                    </p>
+                </div>
+            </div>
+        </td>
+        <td style="padding: 20px; border-center: 2px solid #ddd; vertical-align: middle;">
+            <div align="center">
+            <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                <a href="https://clothing-customizer.vercel.app/" target="_blank" style="text-decoration: none;">
+                    <img src="https://img.shields.io/badge/TryOn-6A1B9A?style=for-the-badge&logo=globe&logoColor=white" />
+                </a>
+                <p style="margin: 10px 0; font-size: 16px; color: #444; line-height: 1.6; text-align: center;">
+                    Build a 3D Cloth Customizer with Three.js and React framework. Used 3D models, TypeScript, TailwindCSS and Material UI
+                </p>
+            </div>
+        </td>
+    </tr>
+</table>
+
 <hr/>
+
+<!--
 
 <p align="center">
     ✨ "Strive not to be a success, but rather to be of value." - Albert Einstein ✨
