@@ -66,7 +66,7 @@
                     <img src="https://img.shields.io/badge/TryOn-6A1B9A?style=for-the-badge&logo=globe&logoColor=white" />
                 </a>
                 <p style="margin: 10px 0; font-size: 16px; color: #444; line-height: 1.6; text-align: center;">
-                    Build a 3D Cloth Customizer with Three.js and React framework. Used 3D models, TypeScript, TailwindCSS and Material UI
+                    Developed a 3D Cloth Customizer with Three.js & React framework. Used 3D models, TypeScript, TailwindCSS and Material UI
                 </p>
             </div>
         </td>
