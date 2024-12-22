@@ -54,7 +54,7 @@
                         <img src="https://img.shields.io/badge/FoodScan-1E88E5?style=for-the-badge&logo=globe&logoColor=white" />
                     </a>
                     <p style="margin: 10px 0; font-size: 16px; color: #444; line-height: 1.6; text-align: center;">
-                        Developed a website for dish and its nutritional analysis using InceptionV3, React, JavaScript, TailwindCSS, MUI and Rest APIs
+                        Developed a website for dish detection and its nutritional analysis using InceptionV3 model, React, JavaScript, TailwindCSS, MUI and REST APIs
                     </p>
                 </div>
             </div>
