@@ -27,7 +27,7 @@
 <hr/>
 -->
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 
 | **Category** | **Technologies** |
@@ -43,7 +43,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">🌟 Projects 🌟</h2>
+<h2 align="center">Projects</h2>
 <br />
 <table align="center" style="width: 80%; border-collapse: collapse; text-align: center;">
     <tr>
@@ -84,7 +84,7 @@
 <hr/>
 -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <div align="center">
     <img width=440 src="https://github-readme-stats.vercel.app/api?username=Annu117&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
     <br>
