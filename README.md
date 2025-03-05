@@ -42,7 +42,7 @@
 
 <br/>
 <hr/>
-
+<!--
 <h2 align="center">Projects</h2>
 <br />
 <table align="center" style="width: 80%; border-collapse: collapse; text-align: center;">
@@ -72,15 +72,6 @@
         </td>
     </tr>
 </table>
-
-<hr/>
-
-<!--
-
-<p align="center">
-    ✨ "Strive not to be a success, but rather to be of value." - Albert Einstein ✨
-</p>
-
 <hr/>
 -->
 
