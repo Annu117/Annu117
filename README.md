@@ -42,7 +42,7 @@
 
 <br/>
 <hr/>
-<!--
+
 <h2 align="center">Projects</h2>
 <br />
 <table align="center" style="width: 80%; border-collapse: collapse; text-align: center;">
@@ -73,6 +73,7 @@
     </tr>
 </table>
 <hr/>
+<!--
 -->
 
 <h2 align="center">Stats</h2>
