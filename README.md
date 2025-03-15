@@ -9,14 +9,17 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:annu21312@iiitd.ac.in">
+  <a href="mailto:annukumari8985@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/annu-kumari-3686b3238/" target="_blank">
+  <a href="https://www.linkedin.com/in/-annu-kumari-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://annu117-react-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://design-portfolio-coral-nine.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Design%20Portfolio-009688?style=for-the-badge&logo=adobe&logoColor=white" />
   </a>
 </div>
 <hr/>
