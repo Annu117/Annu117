@@ -73,12 +73,26 @@
 <hr/>
 <!--
 -->
+<h2 align="center">GitHub Stats</h2>
 
-<h2 align="center">Stats</h2>
 <div align="center">
-    <img width=440 src="https://github-readme-stats.vercel.app/api?username=Annu117&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
-    <br>
-    <img width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=Annu117&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-    <br>
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=Annu117&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+  <br>
+  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=Annu117&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+  <br>
+  <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu117&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages">
+  <br>
+    <div align="center">
+        <img 
+          src="https://github-profile-trophy.vercel.app/?username=Annu117&theme=tokyonight&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Experience,Commits,PullRequest,Issues,Contributions" 
+          width="800" 
+          alt="Trophies" 
+          style="display: block; margin: left;" 
+        />
+    </div>
+ <br>
 </div>
+<br>
+
+<!--   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Annu117&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies">-->
 
