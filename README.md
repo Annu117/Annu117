@@ -76,8 +76,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img width="440" src="https://github-readme-stats.vercel.app/api?username=Annu117&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
-  <br>
+<!--   <img width="440" src="https://github-readme-stats.vercel.app/api?username=Annu117&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+  <br> -->
   <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=Annu117&theme=tokyonight&hide_border=false" alt="GitHub Streak">
   <br>
   <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu117&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages">
