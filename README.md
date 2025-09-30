@@ -82,15 +82,6 @@
   <br>
   <img width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu117&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages">
   <br>
-    <div align="center">
-        <img 
-          src="https://github-profile-trophy.vercel.app/?username=Annu117&theme=tokyonight&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Experience,Commits,PullRequest,Issues,Contributions" 
-          width="800" 
-          alt="Trophies" 
-          style="display: block; margin: left;" 
-        />
-    </div>
- <br>
 </div>
 <br>
 
